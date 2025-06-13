@@ -1,5 +1,3 @@
-i put the project on the public network , please follow the link 
-LMS (file://DESKTOP-SHB0ER2/Users/Timgad%20informatique/Documents/LMS)
 
 # 📚 ENSIA Library Management System (LMS)
 
